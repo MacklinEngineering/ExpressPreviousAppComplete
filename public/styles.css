@@ -1,0 +1,10 @@
+body{
+  background: lawngreen;
+}
+h3{
+  margin-top: 40px;
+}
+/* Somehow connects to server.js */
+.crossOut {
+  text-decoration: line-through;
+}
